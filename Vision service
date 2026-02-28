@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="outer_vision" tvg-logo="" group-title="Vision Channels",Outer Vision Channel
+https://streams2.sofast.tv/ptnr-yupptv/title-OUTER-VISION-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea1ad8da-7c74-4dc3-999f-15088a0d942a/master.m3u8
+#EXTINF:-1 tvg-id="new_vision" tvg-logo="" group-title="Vision Channels",New Vision Channel
+http://212.32.241.201:8000/play/a01r
+#EXTINF:-1 tvg-id="danger_vision" tvg-logo="" group-title="Vision Channels",Danger Vision Channel
+https://streams2.sofast.tv/ptnr-yupptv/title-DANGER-VISION-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/453971f3-855a-455e-9353-ebbb069583a4/master.m3u8
