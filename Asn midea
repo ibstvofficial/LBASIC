@@ -1,0 +1,93 @@
+#EXTM3U
+
+# --- BANGLA CHANNELS ---
+#EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/30.png" ,star jalsha hd
+https://edge2.roarzone.info:8447/roarzone/edge2/star-jalsha/index.m3u8?token=ec8b7bd3c829717383ee5aa0fff417573297e604-5329cdf6c60ac3293ba691d3ff0f1e80-1772401413-1772397813
+#EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/34.png" ,zee bangla hd
+https://edge2.roarzone.info:8447/roarzone/edge3/zee-bangla/index.m3u8?token=337ede567f019db815cd37665d23757f92fd424f-f5c77dc408f4bcc3f1e02efd64b7005e-1772401413-1772397813
+#EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/66.png" ,colors bangla
+https://edge2.roarzone.info:8447/roarzone/edge2/colors-bangla/index.m3u8?token=4b1a79e11e1f7937e87e76021ab48755772ebc7f-0a0356e15a5c2195dacbdb38000510ce-1772401413-1772397813
+#EXTINF:-1 group-title="inbangla" tvg-logo="https://tvassets.roarzone.info/images/33.png" ,sony aath
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-aath/index.m3u8?token=9ca940fe801c869075a84589a6538df29a96d152-0443b31724f5f5a90835d390c422a1a3-1772401413-1772397813
+#EXTINF:-1 group-title="inbangla" ,aakash aath
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
+#EXTINF:-1 group-title="inbangla" ,rupasi bangla
+https://cdn-4.pishow.tv/live/1039/master.m3u8
+
+# --- HINDI ENTERTAINMENT ---
+#EXTINF:-1 group-title="hindi" tvg-logo="https://tvassets.roarzone.info/images/67.png" ,star plus
+https://edge2.roarzone.info:8447/roarzone/bk/67/index.m3u8?token=4a50f28aa7e373dda02f9accb093dcff1cc24f23-26e14f49c4f95c27f9a0c630a1b23cf0-1772401413-1772397813
+#EXTINF:-1 group-title="hindi" tvg-logo="https://tvassets.roarzone.info/images/75.png" ,star gold hd
+https://edge2.roarzone.info:8447/roarzone/edge2/star-gold/index.m3u8?token=3d4d7e9abf485c180d94202528748c8ce7b9f86d-89753b876420318c9d07a360725278af-1772401413-1772397813
+#EXTINF:-1 group-title="hindi" tvg-logo="https://tvassets.roarzone.info/images/38.png" ,sony entertainment
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-entertainment-television-hd/index.m3u8?token=53c10e51518fa28a99ed3c9f74a6159a03fc38ab-53edc32587364c8931a74349600f2ff0-1772401413-1772397813
+#EXTINF:-1 group-title="hindi" tvg-logo="https://tvassets.roarzone.info/images/36.png" ,sony sab
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-sab-hd/index.m3u8?token=4d5d340a2be271b7b22b321deffc90c4c836e937-a1fd0f36dbaca7379afb7cb37fd9e1dd-1772401413-1772397813
+#EXTINF:-1 group-title="hindi" tvg-logo="https://tvassets.roarzone.info/images/sonymaxhd.png" ,sony max 4k
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-hd/index.m3u8?token=b3227d42ddf420a0461c3c6657a0d8710da3db34-a8364c194609cb1e7aa8960e8859cd54-1772401413-1772397813
+#EXTINF:-1 group-title="hindi" tvg-logo="https://tvassets.roarzone.info/images/68.png" ,colors tv hd
+https://edge2.roarzone.info:8447/roarzone/edge2/colors/index.m3u8?token=8f1c958d775bdc00e9260d01f007058c82e9ecd5-0d3c153250e055d5f42aff45aaf2dd06-1772401413-1772397813
+#EXTINF:-1 group-title="hindi" tvg-logo="https://tvassets.roarzone.info/images/40.png" ,zee tv
+https://edge2.roarzone.info:8447/roarzone/edge3/zee-tv-hd/index.m3u8?token=9f7323300a1ed091b2be547b554ff23ab78e35cd-81a6cbf52ec8166fd595bd13afb655bc-1772401413-1772397813
+
+# --- SPORTS CHANNELS ---
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/102.png" ,t sports hd
+https://edge2.roarzone.info:8447/roarzone/edge2/tsports/index.m3u8?token=30c255a119cdbaf6417dd4263de5439ea41148e5-1803985337834b087d1e1a6ee18e919d-1772401413-1772397813
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/1.png" ,gazi tv
+https://edge2.roarzone.info:8447/roarzone/edge2/gazi/index.m3u8?token=c3181807c7befec8b2e06669b63e17dd46790bae-92437a01bf11a982359df615582c5910-1772401413-1772397813
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/73.png" ,ptv sports
+https://edge2.roarzone.info:8447/roarzone/edge2/ptv-sports/index.m3u8?token=5c0e5ca351765207fc60395187c369b5a63ec8fe-e858e7fc4ffc05ff41116644600f8414-1772401413-1772397813
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/add-sports-1.png" ,a sports
+https://edge2.roarzone.info:8447/roarzone/edge2/a-sports/index.m3u8?token=efe32213f44ba4affc3a5524d15f9d1c4d154c2f-9c5c3f960d04be10cbbd194120289c81-1772401413-1772397813
+#EXTINF:-1 group-title="sports" ,willow cricket
+https://n7.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=J3t5BJpIHi-JAatz9MKkNA&expires=1772408708|referrer=https://profamouslife.com/
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/25.png" ,star sports 1 eng
+https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-1/index.m3u8?token=105cab0367da309941466210f1bcc36f2a69da3d-012e4d5ad015031266b260d4e90fac7d-1772401413-1772397813
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/26.png" ,star sports 2 eng
+https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-2/index.m3u8?token=b950f073d50b9f2e485da4d124cca435f3a06942-eaa0fcdeb0c431d15fa9544ed390b1dc-1772401413-1772397813
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/27.png" ,star sports select 1
+https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-select-1/index.m3u8?token=e04f8aa7701c0ef88a96123573e9ea968e0fec1d-c680275a0ae0ae1f7a41228123041a9a-1772401413-1772397813
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/28.png" ,star sports select 2
+https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-select-2/index.m3u8?token=16e002e3a96df7b1f302bb405a94ba51a52b8a95-f13c6c3213167d33698452d91e14f7f0-1772401413-1772397813
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/20.png" ,sony sports 1
+https://edge2.roarzone.info:8447/roarzone/edge2/sony-sports-1-hd/index.m3u8?token=a67cf4fa4bed427782b2a4348d0ba93124b859f2-639acca61a0b883873c22229a776c16d-1772401413-1772397813
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/21.png" ,sony sports 2
+https://edge2.roarzone.info:8447/roarzone/edge2/sony-sports-2-hd/index.m3u8?token=b9a0bef588b832051461a4cbe6aa18373a876ab4-341e55c4fc776ddbbcf68aeb8208be46-1772401413-1772397813
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/22.png" ,sony sports 3
+https://edge2.roarzone.info:8447/roarzone/edge2/sony-sports-3-hd/index.m3u8?token=3e655552e9c999a3e9629fdee5fab028c20dd120-1637114a8d9f15568c70c9d1bb17cdfd-1772401413-1772397813
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/24.png" ,sony sports 5
+https://edge2.roarzone.info:8447/roarzone/edge2/sony-sports-5-hd/index.m3u8?token=7c03f0dfa60729b4638a07258b1207f0936e4acd-dc515c146fee812d5fe7ee4eb8385445-1772401413-1772397813
+#EXTINF:-1 group-title="sports" ,espn (main)
+https://dvrfl04.tulix.tv/teleup-espn/mpegts
+#EXTINF:-1 group-title="sports" ,sky sports mainevent
+https://n8.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=HZB0-RvSvbDdQcQD9Mha7A&expires=1772408709|referrer=https://profamouslife.com/
+#EXTINF:-1 group-title="sports" ,sky sports premier league
+https://n9.sanwalyaarpya.com:1686/hls/skysprem.m3u8?md5=FMrUCkIUw1Mo47AI0sOzGg&expires=1772408711|referrer=https://profamouslife.com/
+#EXTINF:-1 group-title="sports" ,sky sports cricket
+https://n2.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=9TiydGN2oeLhygqQz3y_Jg&expires=1772408709|referrer=https://profamouslife.com/
+#EXTINF:-1 group-title="sports" ,sky sports football
+https://n14.sanwalyaarpya.com:1686/hls/skysfott.m3u8?md5=NJO8Q4q2JxtBm2q-iiV4pg&expires=1772408711|referrer=https://profamouslife.com/
+#EXTINF:-1 group-title="sports" ,sky sports golf
+https://n9.sanwalyaarpya.com:1686/hls/skysgol.m3u8?md5=7QHa8DjD5w67HVnNoGCnMA&expires=1772408711|referrer=https://profamouslife.com/
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/euro_sports_hd.png" ,eurosport
+https://edge2.roarzone.info:8447/roarzone/edge3/euro-sport-hd/index.m3u8?token=398fa41f10d0d9d5fa8b01da5fe3e50658d42f4c-fd2e8a8b23646610953c168fede76dfa-1772401413-1772397813
+
+# --- beIN SPORTS PACKAGE ---
+#EXTINF:-1 group-title="sports" ,beIn sports 1
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 group-title="sports" ,beIn sports 2
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1 group-title="sports" ,beIn sports 3
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1 group-title="sports" ,beIn sports 4
+http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:-1 group-title="sports" ,beIn sports 5
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:-1 group-title="sports" ,beIn sports 6
+http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:-1 group-title="sports" ,beIn sports 7
+http://135.125.109.73:9000/beinsport7_.m3u8
+#EXTINF:-1 group-title="sports" ,beIn sports 8
+http://135.125.109.73:9000/beinsport8_.m3u8
+#EXTINF:-1 group-title="sports" ,beIn sports 9
+http://135.125.109.73:9000/beinsport9_.m3u8
